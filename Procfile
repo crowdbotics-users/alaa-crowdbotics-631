@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT alaa_crowdbotics_631.wsgi:application
